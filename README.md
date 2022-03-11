@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![animated](https://user-images.githubusercontent.com/92760924/157807043-ebd4bb39-d914-4178-b2b8-803694e868b2.GIF)
+
+
 <!--
 **jessebubble/jessebubble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
