@@ -1,4 +1,11 @@
-### Hi there 👋
+### Did we just become best friends!?! 🫠
+
+- supports local 🍺 🥃 <br>
+- iphone and Fuji 📷 📹 <br>
+- Alternative Pop Dance 📻 🎵 <br>
+
+- `I’m currently working on ME 😀 `
+- `I’m currently learning React and Swift 📱`
 
 ![animated](https://user-images.githubusercontent.com/92760924/157807043-ebd4bb39-d914-4178-b2b8-803694e868b2.GIF)
 
