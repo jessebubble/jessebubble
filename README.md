@@ -1,14 +1,14 @@
 ### Did we just become best friends!?! 😀
 
-I hold a Web Developer certificate from the University of Texas, San Antonio where I developed skills in ReactJS, MongoDB, NodeJS/ExpressJS, CSS, responsive web design, and more
-
 I bring the following to every project:
-- `Problem-solving skills and perseverance`
-- `Dedication to teamwork and flexible collaboration`
-- `Foundational knowledge of agile software development principles`
-- `Basic understanding of UX/UI principles`
+- Problem-solving skills and perseverance
+- Dedication to teamwork and flexible collaboration
+- Foundational knowledge of agile software development principles
+- Basic understanding of UX/UI principles
 
-I have continued my studies independently to learn more about iOS development with SwiftUI 📱 ⌚ 💻
+Holds a Full Stack Web Development certificate from the University of Texas, San Antonio where I developed skills in `ReactJS`, `MongoDB`, `NodeJS/ExpressJS`, `CSS`, `responsive web design`, and more
+
+Current focus is on mobile-first design and learning more about iOS development with SwiftUI 📱 ⌚ 💻
 
 I’m excited to leverage my skills as part of a fast-paced, quality-driven team. Let’s connect! 🌐
 
