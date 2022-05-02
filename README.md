@@ -7,11 +7,11 @@ Web Developer - Entry Level
 Innovative problem-solver with strong interpersonal and communication skills. From the world of selling and servicing PNC insurance to holding a Full Stack Web Development certificate from the University of Texas, San Antonio where I developed skills in ReactJS, MongoDB, NodeJS/ExpressJS, CSS, responsive web design, and more
 
 *   🌍  I'm based in San Antonio
-*   🖥️  See my portfolio at [Built w/ React](http://jessebubble.github.io/react-portfolio/)
+*   🖥️  See my portfolio [built w/ React](http://jessebubble.github.io/react-portfolio/)
 *   ✉️  You can contact me at [jesseovr@gmail.com](mailto:jesseovr@gmail.com)
-*   🚀  I'm currently working on [a Full Stack Stripe Payment solution app built w/ React and NodeJS](http://https://github.com/jessebubble/stripe-payments)
-*   🧠  I'm learning Flutter, Firebase, React and Javascript
-*   🤝  I'm open to collaborating on mobile Development
+*   🚀  I'm currently working on [a Full Stack Stripe Payment solution built w/ React and NodeJS](http://https://github.com/jessebubble/stripe-payments)
+*   🧠  I'm learning Flutter, Firebase, React. Always learning Javascript
+*   🤝  I'm open to collaborating on mobile Development projects
 *   ⚡  I’m excited to leverage my skills as part of a fast-paced, quality-driven team. Let’s connect! 🌐
 
 ### Skills
