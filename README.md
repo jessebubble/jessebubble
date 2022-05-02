@@ -10,9 +10,9 @@ Innovative problem-solver with strong interpersonal and communication skills. Fr
 *   🖥️  See my portfolio [built w/ React](http://jessebubble.github.io/react-portfolio/)
 *   ✉️  You can contact me at [jesseovr@gmail.com](mailto:jesseovr@gmail.com)
 *   🚀  I'm currently working on [a Full Stack Stripe Payment solution built w/ React and NodeJS](http://https://github.com/jessebubble/stripe-payments)
-*   🧠  I'm learning Flutter, Firebase, React. Always learning Javascript
+*   🧠  I'm learning Flutter, Firebase, React. Always learning Javascript 💡
 *   🤝  I'm open to collaborating on mobile Development projects
-*   ⚡  I’m excited to leverage my skills as part of a fast-paced, quality-driven team. Let’s connect! 🌐
+*   ⚡  I’m excited to leverage my skills as part of a fast-paced, quality-driven team.
 
 ### Skills
 <p align="left">
@@ -48,7 +48,7 @@ Innovative problem-solver with strong interpersonal and communication skills. Fr
     <a href="https://www.twitch.tv/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
 </p>
 
-### Let's Connect
+### Let's Connect 🌐
 `I bring the following to every project:`
 - Problem-solving skills and perseverance
 - Dedication to teamwork and flexible collaboration
