@@ -4,7 +4,7 @@
 Web Developer - Entry Level
 ---------------------------
 
-Innovative problem-solver with strong interpersonal and communication skills. From the world of selling and servicing PNC insurance to holding a Full Stack Web Development certificate from the University of Texas, San Antonio where I developed skills in ReactJS, MongoDB, NodeJS/ExpressJS, CSS, responsive web design, and more
+Innovative problem-solver with strong interpersonal and communication skills. From the world of selling Property and Casualty insurance to holding a Full Stack Web Development certificate from the University of Texas, San Antonio where I developed skills in ReactJS, MongoDB, NodeJS/ExpressJS, CSS, responsive web design, and more
 
 *   🌍  I'm based in San Antonio
 *   🖥️  See my portfolio [built w/ React](http://jessebubble.github.io/react-portfolio/)
