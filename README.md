@@ -15,7 +15,8 @@
 
 ### Jesse, tell us more 💊
 ---------------------------
-A Web Developer with strong interpersonal and communication skills who is excited to leverage his skills as part of a fast-paced, quality-driven team. From the world of selling insurance to holding a Full Stack Web Development certificate from the University of Texas where I developed skills using modern web technologies, learned the importance of responsive web design and gained foundational knowledge of Agile software development principles. 
+A Web Developer with strong interpersonal and communication skills who is excited to leverage his skills as part of a fast-paced, quality-driven team. From the world of selling insurance to holding a Full Stack Web Development certificate from the University of Texas where I developed skills using modern web technologies and gained foundational knowledge of UI/UX development principles, responsive web design and search engine optimization.
+
 
 ### I bring the following to every project:
 ---------------------------
