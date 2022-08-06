@@ -1,45 +1,34 @@
-🫧 Hello World! 🫧
+Inside the Bubble
 ================================
+Web Developer with strong interpersonal and communication skills who is excited to leverage his skills as part of a fast-paced, quality-driven team. From the world of selling insurance to holding a Web Development certificate from the University of Texas at San Antonio where I developed skills using modern web technologies. Through my freelance work with Viva Web Design and Viva Portraits i've gained experience with domain names and DNS servers, testing web pages for responsiveness and adding code to maximize sites for search engine optimization
 
-## Who is Jesse 👨‍🎤
-
-*   🎵 Music Loving
-*   📷 FujiFilm Enthusiast
-*   🍺 Supporter of local craft beer
 *   🌐 Currently in San Antonio
-*   🖥️ Web Develper Portfolio [built w/ React](http://jessebubble.github.io/react-portfolio/)
-*   📪 Email [jesseovr@gmail.com](mailto:jesseovr@gmail.com)
-*   🚀 Working on [Inside the Bubble - BLOG built w/ NextJS +TS +FireBase +Hosted on Vercel](https://inside-the-bubble.vercel.app/)
-*   🧠 Learning NextJS, Prisma, MongoDB, FireBase 
-*   🤝 Open to collaborating on any Technical Interview Questions
+*   👨‍🎤 Web Develper Portfolio [jessebubble.dev](https://www.jessebubble.dev)
+*   🖥️ VIVA Web Design [vivawebdesign.dev](https://www.vivawebdesign.dev)
+*   📷 VIVA Portraits [vivaportraits.com](https://www.vivaportraits.com)
+*   📪 Email [jesse@vivawebdesign.dev](mailto:jesse@vivawebdesign.dev)
+*   🧠 Currently learning PHP, web performance optimization and solving JS questions on HackerRank  
 
-### Jesse, tell us more 💊
----------------------------
-A Web Developer with strong interpersonal and communication skills who is excited to leverage his skills as part of a fast-paced, quality-driven team. From the world of selling insurance to holding a Full Stack Web Development certificate from the University of Texas where I developed skills using modern web technologies and gained foundational knowledge of UI/UX development principles, responsive web design and search engine optimization.
+<!--
+**jessebubble/jessebubble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 
 ### I bring the following to every project:
 ---------------------------
-- Dedication to teamwork
-- Flexible collaboration
+- Dedication to teamwork and collaboration
 - Problem-solving skills and perseverance
-- ☕ + 🥃
-
-### Socials - Online Presence
----------------------------
-<p align="left">
-    <a href="https://discord.com/users/jessebubble#0950" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-    <a href="https://www.facebook.com/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-    <a href="https://www.github.com/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-    <a href="http://www.instagram.com/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-    <a href="https://www.linkedin.com/in/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-    <a href="https://www.stackoverflow.com/users/17186395/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-    <a href="https://www.twitter.com/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-    <a href="https://www.youtube.com/c/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
-    <a href="https://www.twitch.tv/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
-</p>
-
-<a href="https://www.buymeacoffee.com/jessebubble"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /><a>
+- Local craft beer 🍺 + 🎵
 
 ### Skills - Always Learning 
 ---------------------------
@@ -63,17 +52,19 @@ A Web Developer with strong interpersonal and communication skills who is excite
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<!--
-**jessebubble/jessebubble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Socials - Online Presence
+---------------------------
+<p align="left">
+    <a href="https://discord.com/users/jessebubble#0950" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+    <a href="https://www.facebook.com/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
+    <a href="https://www.github.com/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+    <a href="http://www.instagram.com/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+    <a href="https://www.linkedin.com/in/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+    <a href="https://www.stackoverflow.com/users/17186395/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+    <a href="https://www.twitter.com/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+    <a href="https://www.youtube.com/c/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
+    <a href="https://www.twitch.tv/jessebubble" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://www.buymeacoffee.com/jessebubble"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /><a>
 -->
