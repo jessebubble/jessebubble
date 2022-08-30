@@ -7,7 +7,7 @@ Web Developer with strong interpersonal and communication skills who is excited 
 *   🖥️ VIVA Web Design [vivawebdesign.dev](https://www.vivawebdesign.dev)
 *   📷 VIVA Portraits [vivaportraits.com](https://www.vivaportraits.com)
 *   📪 Email [jesse@vivawebdesign.dev](mailto:jesse@vivawebdesign.dev)
-*   🧠 Currently learning PHP, web performance optimization and solving JS questions on HackerRank  
+*   🧠 Currently learning Figma, PHP, CraftCMS, Web Performance Optimization and solving JS questions on HackerRank  
 
 <!--
 **jessebubble/jessebubble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
