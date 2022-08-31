@@ -1,6 +1,6 @@
 Inside the Bubble
 ================================
-Web Developer with strong interpersonal and communication skills who is excited to leverage his skills as part of a fast-paced, quality-driven team. From the world of selling insurance to holding a Full Stack Web Development certificate from the University of Texas at San Antonio where I developed skills using modern web technologies. Through my freelance work with Viva Web Design i've gained experience setting up hosting, custom DNS, domain names, SEO, Site Resposiveness and Headless CMS
+Web Developer with strong interpersonal and communication skills who is excited to leverage his skills as part of a fast-paced, quality-driven team. From the world of selling insurance to holding a Full Stack Web Development certificate from the University of Texas at San Antonio where I developed skills using modern web technologies. Through my freelance work with Viva Web Design i've gained experience setting up hosting, custom DNS and domain names. I've learned SEO techniques, caching, Web Performance Optimization and testing site resposiveness. Currently working with Headless CMS and marketing tools. 
 
 *   🌐 Currently in San Antonio
 *   👨‍🎤 Web Develper Portfolio [jessebubble.dev](https://www.jessebubble.dev)
