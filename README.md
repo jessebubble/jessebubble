@@ -1,13 +1,13 @@
 Inside the Bubble
 ================================
-Web Developer with strong interpersonal and communication skills who is excited to leverage his skills as part of a fast-paced, quality-driven team. From the world of selling insurance to holding a Full Stack Web Development certificate from the University of Texas at San Antonio where I developed skills using modern web technologies. Through my freelance work with Viva Web Design i've gained experience setting up hosting, custom DNS and domain names. I've learned SEO techniques, caching, Web Performance Optimization and testing site resposiveness. Currently working with Headless CMS and marketing tools. 
+Web Developer with strong interpersonal and communication skills who is excited to leverage his skills as part of a fast-paced, quality-driven team. From the world of selling insurance to holding a Full Stack Web Development certificate from the University of Texas at San Antonio where I developed skills using modern web technologies. Through my freelance work with Viva Web Design I've gained experience setting up hosting, domain names, SEO, caching, Web Performance Optimization and testing for page resposiveness. Currently working with Headless CMS and marketing tools. 
 
 *   🌐 Currently in San Antonio
 *   👨‍🎤 Web Develper Portfolio [jessebubble.dev](https://www.jessebubble.dev)
 *   🖥️ VIVA Web Design [vivawebdesign.dev](https://www.vivawebdesign.dev)
 *   📷 VIVA Portraits [vivaportraits.com](https://www.vivaportraits.com)
 *   📪 Email [jesse@vivawebdesign.dev](mailto:jesse@vivawebdesign.dev)
-*   🧠 Currently learning Figma, PHP, CraftCMS, Web Performance Optimization and solving JS questions on HackerRank  
+*   🧠 Currently learning Figma, PHP, Headless CMS for E-Commerce, User Auth and solving JS questions on HackerRank  
 
 <!--
 **jessebubble/jessebubble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
