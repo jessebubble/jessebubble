@@ -5,9 +5,8 @@ Web Developer with strong interpersonal and communication skills
 *   🌐 Currently in San Antonio
 *   👨‍🎤 Web Develper Portfolio [jessebubble.dev](https://www.jessebubble.dev)
 *   🖥️ VIVA Web Design [vivawebdesign.dev](https://www.vivawebdesign.dev)
-*   📷 VIVA Portraits [vivaportraits.com](https://www.vivaportraits.com)
 *   📪 Email [jesse@vivawebdesign.dev](mailto:jesse@vivawebdesign.dev)
-*   🧠 Currently learning Figma, Headless CMS for E-Commerce, User Auth and solving JS questions on HackerRank  
+*   🧠 Currently learning Figma, Headless CMS tools for E-Commerce and solving JS questions on HackerRank  
 
 <!--
 **jessebubble/jessebubble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
