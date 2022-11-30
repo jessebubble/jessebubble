@@ -6,7 +6,7 @@ Web Developer with strong interpersonal and communication skills
 *   👨‍🎤 Web Develper Portfolio [jessebubble.dev](https://www.jessebubble.dev)
 *   🖥️ VIVA Web Design [vivawebdesign.dev](https://www.vivawebdesign.dev)
 *   📪 Email [jesse@vivawebdesign.dev](mailto:jesse@vivawebdesign.dev)
-*   🧠 Currently learning Figma, Headless CMS tools for E-Commerce and solving JS questions on HackerRank  
+*   🧠 Currently learning Figma, Headless CMS tools for E-commerce and creative ways to animate, manipulate the DOM and connect to API's.  
 
 <!--
 **jessebubble/jessebubble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
