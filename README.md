@@ -3,10 +3,10 @@ Inside the Bubble
 Web Developer with strong interpersonal and communication skills
 
 *   🌐 Currently in San Antonio
-*   👨‍🎤 Web Develper Portfolio [jessebubble.dev](https://www.jessebubble.dev)
-*   🖥️ VIVA Web Design [vivawebdesign.dev](https://www.vivawebdesign.dev)
+*   👨‍💻 Web Develper Portfolio [jessebubble.dev](https://www.jessebubble.dev)
+*   👨‍🎨 VIVA Web Design [vivawebdesign.dev](https://www.vivawebdesign.dev)
 *   📪 Email [jesse@vivawebdesign.dev](mailto:jesse@vivawebdesign.dev)
-*   🧠 Currently learning Figma, Headless CMS tools for E-commerce and creative ways to animate, manipulate the DOM and connect to API's.  
+*   🧠 Experimenting with different ways to animate, manipulate the DOM, connect to API's and create Artificial AI content.  
 
 <!--
 **jessebubble/jessebubble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
