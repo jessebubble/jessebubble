@@ -2,8 +2,8 @@
 I'm Jesse, a web designer, developer and instructor based in San Antonio, Texas 
 
 ### Inside The Bubble 
-When building, I focus on web standards, developer tools, and industry best practices. 
-This approach enables me to create easily manageable online experiences that are inclusive, responsive, performant, user-friendly and accessible 
+I specialize in building online experiences that are inclusive, performant, user-friendly, and accessible to all.
+By focusing on these principles, I aim to create a web experience that is welcoming, efficient, easy to use, and available to everyone
 
 ### What's In The Box 
 Tools are just tools. They don't really matter—especially to the people trying to use the websites you build. 
